@@ -2,9 +2,9 @@
 
 /**
  * @ngdoc overview
- * @name twentyfourteightApp
+ * @name twentyfourtyeightApp
  * @description
- * # twentyfourteightApp
+ * # twentyfourtyeightApp
  *
  * Main module of the application.
  */

@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name twentyfourteightApp.controller:MainCtrl
+ * @name twentyfourtyeightApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the twentyfourteightApp
+ * Controller of the twentyfourtyeightApp
  */
-angular.module('twentyfourteightApp')
+angular.module('twentyfourtyeightApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
